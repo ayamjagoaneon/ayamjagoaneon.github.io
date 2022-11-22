@@ -1,0 +1,6 @@
+body{
+    background-image: url(12.jpg);
+    background-repeat: repeat-y;
+    background-size: 200px;
+    background-position: top center;
+}
